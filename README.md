@@ -1,8 +1,7 @@
 ### Hi, I'm Marc
+I build software with AI, every day. Web apps, iPhone apps, desktop tools, automations.
 
-I co-founded **[Sebre.ai](https://sebre.ai)** with Edward De Jesus. We're a two-person AI consultancy in Boca Raton, Florida: we find the repetitive work inside a small business, build the system that removes it, and keep it running. Fixed price, and the client owns all the code.
-
-I handle scope, delivery and the client side, and I build every day with AI coding tools. Web apps, iPhone apps, desktop tools and the automations behind them.
+With Edward De Jesus, I co-founded Sebre.ai in Boca Raton. We build custom tools that save small businesses time
 
 #### Things I've shipped in public
 
